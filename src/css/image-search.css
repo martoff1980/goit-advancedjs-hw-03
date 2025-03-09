@@ -21,7 +21,7 @@ body {
   gap: 8px;
 }
 
-.search-form input {
+.form input {
   width: 272px;
   font-size: 16px;
   font-weight: 400;
@@ -31,7 +31,7 @@ body {
   color: #808080;
 }
 
-.search-form button {
+.form button {
   width: 91px;
   height: 40px;
   /* padding: 8px 16px; */
@@ -45,7 +45,7 @@ body {
   background-color: #4e75ff;
 }
 
-.search-form button:hover {
+.form button:hover {
   background-color: #6c8cff;
   transition: background-color 1s ease;
 }
